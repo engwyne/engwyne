@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @engwyne
+- 👋 Hi, I’m @engwyne or you can call me jimmy
 - 👀 I’m interested in data science, analysisa and visualization. Application in the field of mechanical engineering. 
 - 🌱 I’m currently learning python and libraries in python for data handling
 -  💞️ I’m looking to collaborate on data scrapping, arduino related projects, data analysisn and visualization, automation of processes, hardware programing.
